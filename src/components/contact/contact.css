@@ -1,0 +1,52 @@
+.B{
+    
+       margin-bottom:10px;
+       background-color:	rgb(89, 89, 89);
+       text-align: center;
+       color:burlywood;
+       
+   }
+
+.img{
+float:left;
+}
+.submit-btn {
+padding: 15px 25px;
+font-size: 24px;
+text-align: center;
+cursor: pointer;
+outline: none;
+color: #fff;
+background-color: #04AA6D;
+border: none;
+border-radius: 40px;
+box-shadow: 0 9px #999;
+}
+.submit-btn:hover {background-color: #3e8e41}
+
+.submit-btn:active {
+background-color: #3e8e41;
+box-shadow: 0 5px #666;
+transform: translateY(4px);
+}
+
+
+
+#mail{
+    background-color:chocolate;
+    font-size: large;
+    border: #3e8e41;
+    
+}
+
+#form{
+    text-align: center;
+    padding-top: 20px;
+    text-decoration: double;
+}
+
+
+#text{
+    font-size: x-large;
+    text-align: center;
+}
